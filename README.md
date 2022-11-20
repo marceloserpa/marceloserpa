@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **marceloserpa/marceloserpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div>
+  <a href="https://github.com/marceloserpa">
+  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=marceloserpa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloserpa&theme=blue-green&layout=compact&langs_count=20"/>   
+</div>
